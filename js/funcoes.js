@@ -9,7 +9,7 @@ async function criarConta(){
     
    console.log("ola " + nome + " " + sobrenome + " sua idade é " + idade)
    var dados = nomeCompleto + " " + idade 
-
+    console.log(nome)
    console.log(dados)
  
 }
